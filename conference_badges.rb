@@ -14,3 +14,8 @@ def assign_rooms(speakers)
   end
   new_arr
 end
+
+def printer
+  puts badges
+  puts room_assignments
+end
